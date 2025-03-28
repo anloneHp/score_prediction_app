@@ -1,0 +1,15 @@
+project/
+│
+├── main.py  # GUI ve ana uygulama
+│── first_eleven_predict.py #ilk 11 karsilastirma tahmini
+│── second_half.py
+│── squadcomp.py
+│── training.py            #ilk 11 squad egitme                 
+├── comparison.py           # Oyuncu karşılaştırma modülü
+├── prediction.py           # Yapay zeka tahmini (XGBoost)
+├── utils/
+│   ├── file_utils.py       # HTML okuma ve veri işleme yardımcı işlevleri
+│   └── __init__.py         # Paket göstergesi
+└── assets/
+    └── stad.jpg            # Arka plan görüntüsü
+
