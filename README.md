@@ -21,10 +21,13 @@ Bu proje, futbol maçlarının skorunu ve ilk 11 oyuncularını tahmin eden bir 
 
 ## Gerekli Bağımlılıklar
 
-```bash
+
 pip install tkinter
 pip install pandas
 pip install joblib
 pip install beautifulsoup4
 pip install xgboost
 pip install scikit-learn
+
+##ORNEK GORSELLER
+![Ekran görüntüsü 2025-03-28 220447](https://github.com/user-attachments/assets/6d7975df-0961-42ee-be5b-ea568fc7ac83)
