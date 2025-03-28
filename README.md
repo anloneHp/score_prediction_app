@@ -31,3 +31,6 @@ pip install scikit-learn
 
 ##ORNEK GORSELLER
 ![Ekran görüntüsü 2025-03-28 220447](https://github.com/user-attachments/assets/6d7975df-0961-42ee-be5b-ea568fc7ac83)
+![Ekran görüntüsü 2025-03-28 220743](https://github.com/user-attachments/assets/751aa916-2bcb-43aa-9ee5-cef792354805)
+![Ekran görüntüsü 2025-03-28 220837](https://github.com/user-attachments/assets/1d37929f-c442-46d6-b111-ba664d394339)
+![Ekran görüntüsü 2025-03-28 220934](https://github.com/user-attachments/assets/9290cd74-f380-4284-ab38-6ff5df57f4fd)
